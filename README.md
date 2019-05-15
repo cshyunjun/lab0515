@@ -4,7 +4,7 @@
 
 설명글을 작성하면 된다.  
 
-이미지 :
+![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5A2yc6SmQ7QrpnCUCApoWQWoavrwcu9OCF-qZV99BIf1HV8Id)  
 
 [네이버](https://naver.com "네이버 연결")  
 *************************
@@ -40,7 +40,7 @@ void f()
 
 사용법은 이렇다.  
 
-####네번째 헤더  
+####  
 
 설명글입니다.  
 이 글은 테스트입니다.
